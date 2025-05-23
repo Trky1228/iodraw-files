@@ -44,7 +44,7 @@
           <mxGeometry x="90" y="570" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aI3_wOKSYtjDI97w2oFf-17" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="280" y="240" width="720" height="400" as="geometry" />
+          <mxGeometry x="280" y="240" width="800" height="400" as="geometry" />
         </mxCell>
         <mxCell id="aI3_wOKSYtjDI97w2oFf-19" value="NECK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
           <mxGeometry x="650" y="200" width="60" height="30" as="geometry" />
@@ -80,7 +80,13 @@
           <mxGeometry x="680" y="360" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aI3_wOKSYtjDI97w2oFf-32" value="CBS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="490" width="95" height="40" as="geometry" />
+          <mxGeometry x="860" y="520" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aI3_wOKSYtjDI97w2oFf-33" value="C2f" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="565" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aI3_wOKSYtjDI97w2oFf-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
