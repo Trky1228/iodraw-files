@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="aI3_wOKSYtjDI97w2oFf-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="80" width="190" height="620" as="geometry" />
+          <mxGeometry x="40" y="80" width="190" height="560" as="geometry" />
         </mxCell>
         <mxCell id="aI3_wOKSYtjDI97w2oFf-3" value="input" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="105" y="80" width="60" height="30" as="geometry" />
@@ -40,8 +40,11 @@
         <mxCell id="aI3_wOKSYtjDI97w2oFf-15" value="CBS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="460" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aI3_wOKSYtjDI97w2oFf-16" value="C2f" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="97.5" y="420" width="95" height="40" as="geometry" />
+        <mxCell id="aI3_wOKSYtjDI97w2oFf-16" value="SPPF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="570" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aI3_wOKSYtjDI97w2oFf-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="80" width="460" height="620" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
