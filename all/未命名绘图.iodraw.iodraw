@@ -100,22 +100,17 @@
         <mxCell id="aI3_wOKSYtjDI97w2oFf-33" value="C2f" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="570" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aI3_wOKSYtjDI97w2oFf-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aI3_wOKSYtjDI97w2oFf-34">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1300" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="aI3_wOKSYtjDI97w2oFf-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="80" width="160" height="560" as="geometry" />
+          <mxGeometry x="1120" y="80" width="350" height="560" as="geometry" />
         </mxCell>
         <mxCell id="aI3_wOKSYtjDI97w2oFf-35" value="Head" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="50" width="60" height="30" as="geometry" />
+          <mxGeometry x="1265" y="50" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aI3_wOKSYtjDI97w2oFf-37" value="Proto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aI3_wOKSYtjDI97w2oFf-37" value="C" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1162.5" y="310" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aI3_wOKSYtjDI97w2oFf-38" value="Proto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1162.5" y="160" width="95" height="40" as="geometry" />
+          <mxGeometry x="1340" y="160" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aI3_wOKSYtjDI97w2oFf-39" value="Proto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1162.5" y="410" width="95" height="40" as="geometry" />
