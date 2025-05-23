@@ -44,7 +44,10 @@
           <mxGeometry x="90" y="570" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aI3_wOKSYtjDI97w2oFf-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="80" width="460" height="620" as="geometry" />
+          <mxGeometry x="280" y="240" width="600" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="aI3_wOKSYtjDI97w2oFf-19" value="NECK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="560" y="200" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
